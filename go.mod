@@ -1,4 +1,4 @@
-module crypto-puzzle
+module go-crypto-puzzle
 
 go 1.22.0
 

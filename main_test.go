@@ -1,8 +1,8 @@
 package cryptopuzzle_test
 
 import (
-	cryptopuzzle "crypto-puzzle"
 	"encoding/base64"
+	cryptopuzzle "go-crypto-puzzle"
 	"testing"
 )
 

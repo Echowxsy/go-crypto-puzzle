@@ -1,11 +1,11 @@
 package cryptopuzzle
 
 import (
-	"crypto-puzzle/archive"
-	"crypto-puzzle/encryptor"
-	"crypto-puzzle/utils"
 	"crypto/rand"
 	"crypto/sha256"
+	"go-crypto-puzzle/archive"
+	"go-crypto-puzzle/encryptor"
+	"go-crypto-puzzle/utils"
 	"math/big"
 )
 
