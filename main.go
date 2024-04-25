@@ -3,10 +3,11 @@ package cryptopuzzle
 import (
 	"crypto/rand"
 	"crypto/sha256"
-	"go-crypto-puzzle/archive"
-	"go-crypto-puzzle/encryptor"
-	"go-crypto-puzzle/utils"
 	"math/big"
+
+	"github.com/Echowxsy/go-crypto-puzzle/archive"
+	"github.com/Echowxsy/go-crypto-puzzle/encryptor"
+	"github.com/Echowxsy/go-crypto-puzzle/utils"
 )
 
 type Options struct {

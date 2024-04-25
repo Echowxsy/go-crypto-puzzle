@@ -2,8 +2,9 @@ package cryptopuzzle_test
 
 import (
 	"encoding/base64"
-	cryptopuzzle "go-crypto-puzzle"
 	"testing"
+
+	cryptopuzzle "github.com/Echowxsy/go-crypto-puzzle"
 )
 
 func TestNewCryptoPuzzle(t *testing.T) {
