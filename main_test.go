@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	cryptopuzzle "github.com/Echowxsy/go-crypto-puzzle"
+	"github.com/Echowxsy/go-crypto-puzzle/cryptopuzzle"
 )
 
 func TestNewCryptoPuzzle(t *testing.T) {
