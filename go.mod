@@ -1,4 +1,4 @@
-module go-crypto-puzzle
+module github.com/Echowxsy/go-crypto-puzzle
 
 go 1.22.0
 
